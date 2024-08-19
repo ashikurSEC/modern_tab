@@ -323,7 +323,7 @@
   
   /* Media Queries */
   
-  @media screen and (max-width: 576px) {
+  @media screen and (max-width: 480px) {
   
     .title {
       font-size: 1.5rem;
